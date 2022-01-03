@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fstorage_002FGames_002FOther_002FTimberborn_002FTimberborn_005FData_002FManaged_002FTimberborn_002ECommon_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fstorage_002FGames_002FOther_002FTimberborn_002FTimberborn_005FData_002FManaged_002FTimberborn_002ECore_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fstorage_002FGames_002FOther_002FTimberborn_002FTimberborn_005FData_002FManaged_002FTimberborn_002EMapSystemUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fstorage_002FGames_002FOther_002FTimberborn_002FTimberborn_005FData_002FManaged_002FTimberborn_002EMapSystem_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fstorage_002FGames_002FOther_002FTimberborn_002FTimberborn_005FData_002FManaged_002FUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fstorage_002FGames_002FOther_002FTimberborn_002FTimberborn_005FData_002FManaged_002FUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/storage/Games/Other/Timberborn/Timberborn_Data/Managed/Timberborn.MapSystem.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
